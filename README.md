@@ -5,4 +5,6 @@ Mathematica code to calculate the fertility of rational knots.
 
 To find resultants for any links you're interested in, use the code in "Rational Link Resultant Finder.nb". 
 
+Since github doesn't play the nicest with Mathematica notebooks, all three files are included in the zip file "RationalLinkFertility.zip".
+
 If you use this code for any official purposes, please cite an upcoming paper, currently submitted to the Journal of Knot Theory and its Ramifications.
