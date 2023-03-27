@@ -1,7 +1,7 @@
 # RationalKnotFertility
 Mathematica code to calculate the fertility of rational knots.
 
-"Rational Knot Resultants.nb" and "Rational Link Resultants.nb" are tabulations of the resultants of all rational knots (1 component links) of 11 or fewer crossings, and all rational links (2 or more component links) of 10 or fewer crossings. 
+"Rational Knot Resultants.nb" and "Rational Link Resultants.nb" are tabulations of the resultants of all rational knots (1 component links) of 11 or fewer crossings, and all rational links (2 component links) of 10 or fewer crossings. 
 
 To find resultants for any links you're interested in, use the code in "Rational Link Resultant Finder.nb". 
 
